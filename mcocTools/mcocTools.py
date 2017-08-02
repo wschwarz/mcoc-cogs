@@ -23,7 +23,7 @@ class MCOCTools:
                 'by Regal Empire {OG Wolvz}',
                 'http://svgur.com/s/48'),
             'hook': (
-                '<http://hook.github.io/champions>',
+                '<http://hook.github.io/champions',
                 '[hook/Champions by gabriel](http://hook.github.io/champions)',
                 'hook/champions for Collector',
                 'https://assets-cdn.github.com/favicon.ico'),
