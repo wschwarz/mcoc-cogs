@@ -23,7 +23,7 @@ class MCOCTools:
                 'by Regal Empire {OG Wolvz}',
                 'http://svgur.com/s/48'),
             'hook': (
-                '<http://hook.github.io/champions',
+                '<http://hook.github.io/champions>',
                 '[hook/Champions by gabriel](http://hook.github.io/champions)',
                 'hook/champions for Collector',
                 'https://assets-cdn.github.com/favicon.ico'),
@@ -31,7 +31,7 @@ class MCOCTools:
                 '<http://simians.tk/MCoCspotlight>',
                 '[MCOC Spotlight Dataset](http://simians.tk/MCoCspotlight)\nIf you would like to donate prestige, signatures or stats, join us at \n[MCOC Spotlight on Discord](https://discord.gg/wJqpYGS)'),
             'marvelsynergy': (
-                'http://www.marvelsynergy.com/team-builder>',
+                '<http://www.marvelsynergy.com/team-builder>',
                 '[Marvel Synergy Team Builder](http://www.marvelsynergy.com/team-builder)',
                 'Marvel Synergy',
                 'http://www.marvelsynergy.com/images/marvelsynergy.png'),
